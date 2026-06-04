@@ -2,7 +2,7 @@
   "name": "default",
   "component": "cornerbadge",
   "createdAt": "2026-05-12T15:31:06.313Z",
-  "updatedAt": "2026-05-28T01:21:50.720Z",
+  "updatedAt": "2026-06-04T22:26:56.265Z",
   "aliases": {
     "--corner-badge-margin": "--space-0",
     "--corner-badge-outer-radius": "--radius-none",
@@ -12,7 +12,7 @@
     "--corner-badge-padding": "--space-6",
     "--corner-badge-text-font-family": "--font-sans",
     "--corner-badge-text-font-size": "--font-size-sm",
-    "--corner-badge-text-font-weight": "--font-weight-light",
+    "--corner-badge-text-font-weight": "--font-weight-medium",
     "--corner-badge-text-line-height": "--line-height-xs",
     "--corner-badge-primary-surface": "--surface-brand",
     "--corner-badge-primary-border": "--border-brand",

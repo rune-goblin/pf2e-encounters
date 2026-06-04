@@ -1,0 +1,14 @@
+{
+  "name": "default",
+  "component": "panel",
+  "createdAt": "2026-06-04T22:26:56.267Z",
+  "updatedAt": "2026-06-04T22:26:56.267Z",
+  "aliases": {
+    "--panel-frame-border": "--border-neutral",
+    "--panel-frame-border-width": "--border-width-1",
+    "--panel-frame-radius": "--radius-2xl",
+    "--panel-stage-padding": "--space-16",
+    "--panel-stage-inline-padding": "--space-16",
+    "--panel-stage-gap": "--space-16"
+  }
+}

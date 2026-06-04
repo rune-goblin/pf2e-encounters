@@ -2,10 +2,10 @@
   "name": "default",
   "component": "menuselect",
   "createdAt": "2026-05-16T00:00:00.000Z",
-  "updatedAt": "2026-05-16T07:13:28.589Z",
+  "updatedAt": "2026-06-04T22:26:56.266Z",
   "aliases": {
-    "--menuselect-menu-surface": "--surface-neutral-lower",
-    "--menuselect-menu-border": "--border-neutral-faint",
+    "--menuselect-menu-surface": "color-mix(in srgb, var(--surface-neutral-lower) 85%, transparent)",
+    "--menuselect-menu-border": "--border-neutral-medium",
     "--menuselect-menu-border-width": "--border-width-1",
     "--menuselect-menu-radius": "--radius-md",
     "--menuselect-menu-padding": "--space-4",
@@ -46,7 +46,5 @@
     "--menuselect-disabled-text-line-height": "--line-height-sm",
     "--menuselect-disabled-icon": "--text-tertiary",
     "--menuselect-disabled-icon-size": "--icon-size-sm"
-  },
-  "config": {},
-  "schemaVersion": 6
+  }
 }
