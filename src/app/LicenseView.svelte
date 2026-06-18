@@ -92,7 +92,7 @@
 
       <ul class="repo-links">
         <li>
-          <a href="https://github.com/rune-goblin/pf2e-encounters" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/rune-goblin/pathfinder2e-encounters" target="_blank" rel="noopener noreferrer">
             <img src={githubIcon} alt="" aria-hidden="true" />
             View this project on GitHub
           </a>

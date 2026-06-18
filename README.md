@@ -1,4 +1,4 @@
-# pf2e-encounters
+# pathfinder2e-encounters
 
 A Pathfinder 2e encounter builder, Svelte 5 + Vite, styled with the
 [Live Tokens](https://github.com/motionproto/live-tokens) design system
